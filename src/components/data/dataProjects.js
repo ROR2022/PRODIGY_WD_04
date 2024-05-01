@@ -14,7 +14,7 @@ export const dataProjects = [
         shortDescription: 'Basic login app with MERN',
         description: 'This web application, developed with the MERN stack (MongoDB, Express.js, React.js, Node.js), aims to showcase the basic functionality of a login system. In addition to allowing users to authenticate themselves, it also provides an intuitive and responsive interface to explore other potential features. Currently, it is deployed on an AWS EC2 instance, ensuring its availability and scalability.',
         url: 'http://18.116.42.126/',
-        imageURL:'http://18.116.42.126/assets/fog1-DWCVUhbc.jpg',
+        imageURL:'https://cdn.pixabay.com/photo/2016/02/28/00/21/sunset-1226414_1280.jpg',
         codeLink: 'https://github.com/ROR2022/loginApp'
     },
     {
